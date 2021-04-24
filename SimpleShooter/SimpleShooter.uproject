@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{71BED7E4-8C27-4178-83FA-D666CDD1229F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SimpleShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}

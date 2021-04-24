@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004A499-08D8-EA6F-6A25-B1EC78272639}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BullCowGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
